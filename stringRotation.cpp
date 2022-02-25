@@ -1,4 +1,4 @@
-//check if the 2nd string is the rotated virsion of the first one
+//check if the 2nd string is the rotated version of the first one
 #include <iostream>
 using namespace std;
 
