@@ -1,4 +1,13 @@
 //diamond pattern using recursion and backtracking
+/*
+      * 
+    * * * 
+  * * * * * 
+* * * * * * * 
+  * * * * * 
+    * * * 
+      * 
+*/
 #include <iostream>
 using namespace std;
 
