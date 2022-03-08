@@ -19,12 +19,9 @@ void ds(int i, int n){
     //backtracking
     c=i;
     g = (n-1)*2;
-    while(g--){
-        cout<<" ";
-    }
-    while(c--){
-        cout<<"* ";
-    }
+    while(g--) cout<<" ";
+	    
+    while(c--) cout<<"* ";
     cout<<endl;
 }
 
