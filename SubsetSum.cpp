@@ -21,7 +21,7 @@ int main(){
     return 0;
 }
 
-/*-------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
 //recursion to dp conversion, top-down to bottom-up
 
 //DP approach (bottom-up)(starting from base case)
